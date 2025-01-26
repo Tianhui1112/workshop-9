@@ -70,6 +70,7 @@ image(video, 0, 0, width, height);
 ```
 
 Function: Displays the video stream captured by createCapture(VIDEO) on the canvas.
+
 Effect: The canvas shows a real-time video feed from the camera.
 
 1.2.2: 
